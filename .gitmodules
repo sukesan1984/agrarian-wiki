@@ -1,0 +1,3 @@
+[submodule "extensions/WikiForum"]
+	path = extensions/WikiForum
+	url = https://git.wikimedia.org/git/mediawiki/extensions/WikiForum.git
