@@ -4,3 +4,6 @@
 [submodule "extensions/Comments"]
 	path = extensions/Comments
 	url = https://git.wikimedia.org/git/mediawiki/extensions/Comments.git
+[submodule "extensions/Widgets"]
+	path = extensions/Widgets
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Widgets.git
